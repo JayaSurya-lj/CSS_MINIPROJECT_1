@@ -16,7 +16,7 @@ Demo
 </ul>
 <br>
 <h3>Usage<h3>
-<p>Describe how to use your project. Include examples or code snippets if necessary.</p>
+<p>To seamlessly incorporate the CSS-based sliding menu into your web project, start by including the necessary styles and Font Awesome icons in your HTML file's &lt;head&gt; section. Then, integrate the provided HTML structure within your &lt;body&gt;, ensuring to tailor the content inside the .sidebar_menu div to your project's specifications. Optionally, tweak the CSS styles in the style.css file to align with your project's design preferences. Once completed, open your HTML file in a web browser, where the sliding menu will be activated by clicking the designated icon, offering a user-friendly navigation experience. This straightforward integration allows you to enhance your web application's functionality with a responsive and visually appealing sliding menu.</p>
 <br>
 <h3>Contributing</h3>
 <p>If you'd like to contribute to this project, please follow these steps:<p>

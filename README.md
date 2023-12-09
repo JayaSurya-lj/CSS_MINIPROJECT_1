@@ -4,7 +4,7 @@
 <p>This project is a simple web page with a responsive CSS-based sliding menu. The menu is triggered by a checkbox and features smooth transitions for a polished user experience. It includes a clean layout, a logo, and social media links.</p>
 <br>
 
-Demo
+<h2>Demo</h2>
 <img src="ssc1.png" title="Page before opening the menu" >
 <p>Page before opening the menu</p>
 <img src="ssc2.png" title="Page after opening the menu" >

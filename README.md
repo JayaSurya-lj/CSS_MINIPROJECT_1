@@ -6,8 +6,9 @@
 
 Demo
 <img src="ssc1.png" title="Page before opening the menu" >
+<p>Page before opening the menu</p>
 <img src="ssc2.png" title="Page after opening the menu" >
-
+<p>Page after opening the menu</p>
 <h3>Installation</h3>
 <ul>
 <li>Clone the repository: git clone https://github.com/your-username/your-repository.git</li>

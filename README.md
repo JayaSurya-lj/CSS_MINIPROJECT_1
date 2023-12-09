@@ -5,32 +5,24 @@
 <br>
 
 Demo
-<img src="ssc1.png" >
+<img src="ssc1.png" title="Page before opening the menu" >
+<img src="ssc2.png" title="Page after opening the menu" >
 
-Installation
-Clone the repository: git clone https://github.com/your-username/your-repository.git
-Open the project folder: cd your-repository
-Open the HTML file in your browser.
-Usage
-Describe how to use your project. Include examples or code snippets if necessary.
-
-html
-Copy code
-<!-- Example usage of the checkbox in HTML -->
-<input type="checkbox" id="check" />
-css
-Copy code
-/* Example CSS styling for the sliding menu */
-.sidebar_menu {
-    position: fixed;
-    left: -300px;
-    /* ... other styles ... */
-}
-Contributing
-If you'd like to contribute to this project, please follow these steps:
-
-Fork the repository.
-Create a new branch: git checkout -b feature/new-feature.
-Make your changes and commit them: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature/new-feature.
-Submit a pull request.
+<h3>Installation</h3>
+<ul>
+<li>Clone the repository: git clone https://github.com/your-username/your-repository.git</li>
+<li>Open the project folder: cd your-repository</li>
+<li>Open the HTML file in your browser.</li>
+</ul>
+<br>
+<h3>Usage<h3>
+<p>Describe how to use your project. Include examples or code snippets if necessary.</p>
+<br>
+<h3>Contributing</h3>
+<p>If you'd like to contribute to this project, please follow these steps:<p>
+<ul>
+<li>Fork the repository.</li>
+<li>Create a new branch: git checkout -b feature/new-feature.</li>
+<li>Make your changes and commit them: git commit -m 'Add new feature'.</li>
+<li>Push to the branch: git push origin feature/new-feature.</li>
+<li>Submit a pull request.</li>
